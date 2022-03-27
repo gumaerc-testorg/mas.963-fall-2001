@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: a961ca8b-fb27-20a7-83e3-bea1eaf7ac47
 resourcetype: Document
 title: Context-Aware Office Assistant
 uid: 5945a232-a898-3db1-7235-4e4ffbaf15af

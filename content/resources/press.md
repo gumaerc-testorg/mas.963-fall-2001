@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: a961ca8b-fb27-20a7-83e3-bea1eaf7ac47
 resourcetype: Document
 title: Press Clippings
 uid: 4a80ec93-fee7-d759-133b-c38f9f948590
