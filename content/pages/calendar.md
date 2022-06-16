@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of weekly course topics and readings.
+  Links are provided to online versions of some of the readings where available.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

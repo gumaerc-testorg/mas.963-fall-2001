@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides details on the course readings. Topics include
+  human use of context, applications that provide context, applications that use context,
+  and sensing context. Links are provided to online version of some of the readings
+  where available.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
