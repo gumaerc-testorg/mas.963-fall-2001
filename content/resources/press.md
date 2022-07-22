@@ -5,6 +5,7 @@ file: /courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Press Clippings
 uid: 4a80ec93-fee7-d759-133b-c38f9f948590
 ---
 A collection of links to new articles on context sensitive computer systems.
-

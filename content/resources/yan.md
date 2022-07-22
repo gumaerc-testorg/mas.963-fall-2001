@@ -7,6 +7,7 @@ file: /courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Context-Aware Office Assistant
 uid: 5945a232-a898-3db1-7235-4e4ffbaf15af
 ---
 Example of student work: a project to design and implement an agent that interacts with visitors at an office door and manages the office owner’s schedule.
-

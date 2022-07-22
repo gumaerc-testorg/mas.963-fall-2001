@@ -6,6 +6,7 @@ file: /courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Student Projects
 uid: 5ce95d13-83ba-8c60-dc84-86ee914ef802
 ---
 Brief descriptions of student projects that have been completed for the course.
-

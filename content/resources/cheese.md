@@ -6,6 +6,7 @@ file: /courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Cheese: Tracking Mouse Movement Activity on Websites, a Tool for User Mo
 uid: 0f526db9-9db6-cf03-75d3-cbb7c154d2a5
 ---
 Example of student work: a project to develop a method for tracking mouse movements on a web page in order to build a more extensive user interest model. 
-

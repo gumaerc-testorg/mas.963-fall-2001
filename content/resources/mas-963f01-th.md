@@ -11,10 +11,10 @@ image_metadata:
   image-alt: Diagram of a context-aware application with an explicit input and explicit
     output.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Context-aware Application (thumbnail)
 uid: 31e3562f-9264-eeb6-4b7f-dbdf7b7dce31
 ---
 Diagram of a context-aware application with an explicit input and explicit output. (Diagram courtesy of Prof. Henry Lieberman.)
-
