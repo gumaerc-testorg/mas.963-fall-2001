@@ -2,259 +2,148 @@
 content_type: page
 description: This section provides the schedule of weekly course topics and readings.
   Links are provided to online versions of some of the readings where available.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: 465941e3-6b16-a956-a0a3-b4d9b7ae9a82
 ---
-
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Week #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 Topics
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 Readings
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Introduction to "the context problem"
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Context for software agents
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Brown, P. J., J. D. Bovey, and X. Chen. "Context-aware applications: from the laboratory to the marketplace." *IEEE Personal Communications*, 4(5) (October 1997).
 
-Brown, P. J., J. D. Bovey, and X. Chen. "Context-aware applications: from the laboratory to the marketplace." _IEEE Personal Communications_, 4(5) (October 1997).
+Lieberman, Henry, and David Maulsby. "[Software That Just Keeps Getting Better](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=5387200)." *IBM Systems Journal*, Volume 35, Nos. 3 & 4 (1996).
 
-Lieberman, Henry, and David Maulsby. "[Software That Just Keeps Getting Better](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=5387200)." _IBM Systems Journal_, Volume 35, Nos. 3 & 4 (1996).
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Designing User Interfaces for Just-In-Time Information
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Rhodes, Bradley. *Bulding a Contextually Aware Associative Memory* (unpublished draft).
 
-Rhodes, Bradley. _Bulding a Contextually Aware Associative Memory_ (unpublished draft).
+Wickens, CD. "Engineering Psychology and Human Performance." In *Engineering Psychology and Human Performance*, Scott Foesman Little Brown, 1992, 74-115 (only skim 74-88).
 
-Wickens, CD. "Engineering Psychology and Human Performance." In _Engineering Psychology and Human Performance_, Scott Foesman Little Brown, 1992, 74-115 (only skim 74-88).
+Norman, Don. "How might we interact with agents?" In *Software Agents*. Edited by J. Bradshaw. AAAI Press/MIT Press, 1997.
 
-Norman, Don. "How might we interact with agents?" In _Software Agents_. Edited by J. Bradshaw. AAAI Press/MIT Press, 1997.
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Context for learning by example
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-Lieberman, Henry. [Integrating user interface agents with conventional applications](http://web.media.mit.edu/~lieber/Lieberary/Integrating-UI-Agents/Integrating-Agents-Intro.html)_._
+Lieberman, Henry. [Integrating user interface agents with conventional applications](http://web.media.mit.edu/~lieber/Lieberary/Integrating-UI-Agents/Integrating-Agents-Intro.html)*.*
 
 Potter, Richard. [Just-in-Time Programming](http://web.media.mit.edu/~lieber/Teaching/Context/Potter.rtf).
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-{{< tdopen >}}
-Lenat, Doug. _The Dimensions of Context-Space._
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+Lenat, Doug. *The Dimensions of Context-Space.*
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Information visualization
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Tufte, Edward. *The Visual Display of Quantitative Information.*
 
-Tufte, Edward. _The Visual Display of Quantitative Information._
+Shneiderman, Ben. *Information Visualization.*
 
-Shneiderman, Ben. _Information Visualization._
+Cooper, Muriel. *Computers and Design.*
 
-Cooper, Muriel. _Computers and Design._
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 The role of background knowledge as context
-{{< tdclose >}}
-{{< tdopen >}}
-Guha and Doug Lenat_. Cyc._
+{{< tdclose >}}{{< tdopen >}}
 
-Lehnert, Wendy. _Computers and Car Bombs_.
+Guha and Doug Lenat. *Cyc*.
 
-Brooks, Rod. _Intelligence without Representation._
+Lehnert, Wendy. *Computers and Car Bombs*.
 
+Brooks, Rod. *Intelligence without Representation.*
 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Systems that adapt to context
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Selker, Ted. *COACH: A Teaching Agent That Learns.*
 
-Selker, Ted. _COACH: A Teaching Agent That Learns._
+Rich, Elaine. *Stereotypes and User Modeling.*
 
-Rich, Elaine. _Stereotypes and User Modeling._
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Philosophical and mathematical positions on context
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Barwise, Jon, and John Perry. *Situations and Attitudes*.
 
-Barwise, Jon, and John Perry. _Situations and Attitudes_.
+Suchman, Lucy. *Situated Systems*.
 
-Suchman, Lucy. _Situated Systems_.
+Nardi, Bonnie. *Context and Consciousness*.
 
-Nardi, Bonnie. _Context and Consciousness_.
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Machine Learning and formal approaches
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Mitchell, Tom,and Langley, Pat. *Machine Learning*.
 
-Mitchell, Tom,and Langley, Pat. _Machine Learning_.
+Neville-Manning, Craig, and David Maulsby. *Sequitur*.
 
-Neville-Manning, Craig, and David Maulsby. _Sequitur_.
+McCarthy, John. *Circumscription*.
 
-McCarthy, John. _Circumscription_.
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Sensing context from the environment
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Psychological and social perspectives on context
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Nass, Cliff, and Byron Reeves. *The Media Equation*.
 
-Nass, Cliff, and Byron Reeves. _The Media Equation_.
+Bates, Joseph. *The Role of Emotion in Believable Agents*.
 
-Bates, Joseph. _The Role of Emotion in Believable Agents_.
+Laurel, Brenda. *Metaphors with Character*.
 
-Laurel, Brenda. _Metaphors with Character_.
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Final Project Reports
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Final Project Reports
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
