@@ -43,8 +43,10 @@
     "website": "mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001"
   },
   "learning_resource_types": [
-    "Lecture Notes"
+    "Lecture Notes",
+    "Projects with Examples"
   ],
-  "site_uid": "fc5c41be-6a69-4000-9219-82f2be4a0061",
+  "site_uid": "eac26e76-16c3-4f2a-8216-0b84f559cb6a",
+  "site_short_id": "mas.963-fall-2001",
   "title": "Course Metadata"
 }
