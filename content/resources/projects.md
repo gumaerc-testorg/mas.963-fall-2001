@@ -3,6 +3,7 @@ content_type: resource
 description: Brief descriptions of student projects that have been completed for the
   course.
 file: /courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/5ce95d1383ba8c60dc8486ee914ef802_projects.pdf
+file_size: 750131
 file_type: application/pdf
 learning_resource_types:
 - Projects

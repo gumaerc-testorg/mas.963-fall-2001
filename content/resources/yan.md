@@ -4,6 +4,7 @@ description: "Example of student work: a project to design and implement an agen
   \ that interacts with visitors at an office door and manages the office owner\u2019\
   s schedule."
 file: /courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/5945a232a8983db172354e4ffbaf15af_yan.pdf
+file_size: 2135771
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -3,6 +3,7 @@ content_type: resource
 description: Book chapter on just-in-time programming, or implementing of algorithms
   during task-time.
 file: /courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/bc1a279d6dfeb6b5138de60a2bc9dd5f_potter.pdf
+file_size: 319668
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
