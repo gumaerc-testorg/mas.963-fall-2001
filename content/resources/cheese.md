@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work: a project to develop a method for tracking
   mouse movements on a web page in order to build a more extensive user interest model. '
-file: /ol-ocw-studio-app/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/0f526db99db6cf0375d3cbb7c154d2a5_cheese.pdf
+file: /courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/0f526db99db6cf0375d3cbb7c154d2a5_cheese.pdf
 file_size: 79074
 file_type: application/pdf
 learning_resource_types:
