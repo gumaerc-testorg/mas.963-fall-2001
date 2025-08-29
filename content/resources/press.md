@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A collection of links to new articles on context sensitive computer systems.
-file: /courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/4a80ec93fee7d759133bc38f9f948590_press.pdf
+file: /ol-ocw-studio-app/courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001/4a80ec93fee7d759133bc38f9f948590_press.pdf
 file_size: 65382
 file_type: application/pdf
 learning_resource_types:
