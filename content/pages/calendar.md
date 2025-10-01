@@ -28,7 +28,7 @@ Context for software agents
 
 Brown, P. J., J. D. Bovey, and X. Chen. "Context-aware applications: from the laboratory to the marketplace." *IEEE Personal Communications*, 4(5) (October 1997).
 
-Lieberman, Henry, and David Maulsby. "[Software That Just Keeps Getting Better](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=5387200)." *IBM Systems Journal*, Volume 35, Nos. 3 & 4 (1996).
+Lieberman, Henry, and David Maulsby. "{{% resource_link "fdaa5a31-1a92-4c0b-9cc0-287c50f9de8f" "Software That Just Keeps Getting Better" %}}." *IBM Systems Journal*, Volume 35, Nos. 3 & 4 (1996).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -48,9 +48,9 @@ Norman, Don. "How might we interact with agents?" In *Software Agents*. Edited b
 Context for learning by example
 {{< tdclose >}}{{< tdopen >}}
 
-Lieberman, Henry. [Integrating user interface agents with conventional applications](http://web.media.mit.edu/~lieber/Lieberary/Integrating-UI-Agents/Integrating-Agents-Intro.html)*.*
+Lieberman, Henry. {{% resource_link "59801f8b-ace5-418f-ad01-68858f11926e" "Integrating user interface agents with conventional applications" %}}*.*
 
-Potter, Richard. [Just-in-Time Programming](http://web.media.mit.edu/~lieber/Teaching/Context/Potter.rtf).
+Potter, Richard. {{% resource_link "3961d251-24ca-44d5-82c1-bb7d5ec09c88" "Just-in-Time Programming" %}}.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
