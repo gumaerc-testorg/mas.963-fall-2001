@@ -45,7 +45,7 @@ Readings:
 
 Brown, P. J., J. D. Bovey, and X. Chen. "Context-aware applications: from the laboratory to the marketplace." _IEEE Personal Communications_ 4(5) (October 1997).
 
-Lieberman, Henry, and David Maulsby. "{{% resource_link "fdaa5a31-1a92-4c0b-9cc0-287c50f9de8f" "Software That Just Keeps Getting Better" %}}." _IBM Systems Journal_ 35, Nos. 3 & 4 (1996).
+Lieberman, Henry, and David Maulsby. "[Software That Just Keeps Getting Better](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=5387200)." _IBM Systems Journal_ 35, Nos. 3 & 4 (1996).
 
   
  
@@ -72,9 +72,9 @@ Norman, Don. "How might we interact with agents?" in _Software Agents_. Edited b
 
 Readings:
 
-Lieberman, Henry. {{% resource_link "59801f8b-ace5-418f-ad01-68858f11926e" "_Integrating user interface agents with conventional applications_" %}}.
+Lieberman, Henry. [_Integrating user interface agents with conventional applications_](http://web.media.mit.edu/~lieber/Lieberary/Integrating-UI-Agents/Integrating-Agents-Intro.html).
 
-Potter, Richard. {{% resource_link "3961d251-24ca-44d5-82c1-bb7d5ec09c88" "_Just-in-Time Programming_" %}}
+Potter, Richard. [_Just-in-Time Programming_](http://web.media.mit.edu/~lieber/Teaching/Context/Potter.rtf)
 
   
  
